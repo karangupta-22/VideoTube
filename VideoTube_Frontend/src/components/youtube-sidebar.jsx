@@ -169,7 +169,7 @@ const YoutubeSidebar = () => {
           <SheetContent side="left" className="w-[300px] p-0">
             <div className="flex h-16 items-center gap-2 border-b px-6">
               <Youtube className="size-6" />
-              <span className="font-semibold">YouTube</span>
+              <span className="font-semibold">VideoTube</span>
             </div>
             <SidebarContentSection />
           </SheetContent>
